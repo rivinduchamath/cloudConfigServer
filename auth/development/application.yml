@@ -11,7 +11,7 @@ spring:
     name: USER-SERVICE
   # DATABASE CONFIGURATIONS
   datasource:
-    url: jdbc:mysql://localhost:3306/cogdbj2?createDatabaseIfNotExist=true&useSSL=false
+    url: jdbc:mysql://localhost:3306/cogdb2?createDatabaseIfNotExist=true&useSSL=false
     username: root
     password: mynewpassword
     driver-class-name: com.mysql.cj.jdbc.Driver
